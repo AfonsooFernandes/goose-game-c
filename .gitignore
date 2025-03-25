@@ -1,0 +1,17 @@
+*.o
+
+jogo_do_ganso
+*.exe
+
+*.dat
+
+*.layout
+*.dev
+
+*~
+*.bak
+
+debug.log
+
+.DS_Store
+Thumbs.db
